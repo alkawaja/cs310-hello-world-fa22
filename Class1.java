@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Ahmed Alkhawaja
  */
 
 public class Class1 {
